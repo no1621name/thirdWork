@@ -21,8 +21,3 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-
-.browserslistrc
-package-lock.json
-.editorconfig
-.eslintrc.js
