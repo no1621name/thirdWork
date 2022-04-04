@@ -1,24 +1,6 @@
-# third-work
+# thirdWork
+It's my third portfolio work.
 
-## Project setup
-```
-npm install
-```
+This is landing with difficult cost-calculator and slider (no-adaptive). I did it with Vue.js (5.0.1) framework (with Vuex) and vue2-swiper plugin. It's my first time when i have used Vue.js.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+For work of project you need to run it with Vue serve.
