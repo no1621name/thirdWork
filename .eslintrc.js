@@ -32,5 +32,6 @@ module.exports = {
     'max-len': ['error', {
       ignoreStrings: true, ignoreUrls: true, code: 100, ignoreTemplateLiterals: true, ignorePattern: '"',
     }],
+    'linebreak-style': 'off',
   },
 };
