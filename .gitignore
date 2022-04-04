@@ -24,3 +24,5 @@ pnpm-debug.log*
 
 .browserslistrc
 package-lock.json
+.editorconfig
+.eslintrc.js
